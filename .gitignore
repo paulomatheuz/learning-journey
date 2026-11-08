@@ -1,13 +1,8 @@
-# Caches e arquivos gerados pelo Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
-
-# Ambientes virtuais
 .venv/
 venv/
-
-# Variáveis de ambiente locais
 .env
 .env.*
 !.env.example
