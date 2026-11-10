@@ -1,0 +1,8 @@
+# Enunciados de uso local
+ENUNCIADO.md
+
+# Relatórios de cobertura gerados pelos testes
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
